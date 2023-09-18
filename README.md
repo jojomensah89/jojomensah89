@@ -6,6 +6,7 @@
 - Email: jojomensah89@gmail.com
 - Twitter: https://twitter.com/jojomensah89
 - Lens Protocol: http://lensfrens.xyz/jojomensah.lens
+- ENS: jojomensah.eth
 
 <!---
 jojomensah89/jojomensah89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
