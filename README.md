@@ -7,7 +7,6 @@ I’m a Software Engineer & Fullstack Web3developer
 I love code
 
 * ✉️  You can contact me at [jojomensah89@mail.com](mailto:jojomensah89@mail.com)
-* 🧠  I'm learning Rust
 
 ### Skills
 
